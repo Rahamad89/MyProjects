@@ -1,0 +1,6 @@
+E:\Rahamad\Learning\DotNetTask\OcwenTask\PingServer\bin\Debug\PingServer.exe.config
+E:\Rahamad\Learning\DotNetTask\OcwenTask\PingServer\bin\Debug\PingServer.exe
+E:\Rahamad\Learning\DotNetTask\OcwenTask\PingServer\bin\Debug\PingServer.pdb
+E:\Rahamad\Learning\DotNetTask\OcwenTask\PingServer\obj\Debug\PingServer.csprojResolveAssemblyReference.cache
+E:\Rahamad\Learning\DotNetTask\OcwenTask\PingServer\obj\Debug\PingServer.exe
+E:\Rahamad\Learning\DotNetTask\OcwenTask\PingServer\obj\Debug\PingServer.pdb
